@@ -12,14 +12,7 @@ function Header() {
             <span className="text-xl font-bold text-gray-800">MoneyMorph</span>
           </div>
 
-          <nav className="hidden md:flex items-center space-x-8">
-            <a href="#features" className="text-gray-600 hover:text-gray-900 transition">Features</a>
-            <a href="#rates" className="text-gray-600 hover:text-gray-900 transition">Rates</a>
-            <a href="#support" className="text-gray-600 hover:text-gray-900 transition">Support</a>
-            <button className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-full transition">
-              Log In
-            </button>
-          </nav>
+
 
           <button className="md:hidden text-gray-600">
             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
